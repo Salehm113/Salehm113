@@ -13,18 +13,3 @@ final_report.md: التقرير النهائي للمشروع
 images/: مجلد يحتوي على صور المشروع
 حقوق الملكية
 © 2025 منصة السوق الجزائرية. جميع الحقوق محفوظة لـ salehmerah00@gmail.com.
-كيفية الاستخدام
-قم بزيارة الموقع
-تصفح الفئات المختلفة
-أنشئ حسابك للبدء في نشر الإعلانات
-تواصل مع البائعين والمشترين
-تعليمات النشر على GitHub Pages
-انتقل إلى قسم "Settings" في المستودع
-اختر "Pages" من القائمة الجانبية
-في قسم "Source"، اختر "main" كفرع للنشر
-انقر على "Save"
-انتظر بضع دقائق حتى يتم نشر الموقع
-ستظهر رسالة تأكيد مع رابط الموقع المنشور
-Salehm113/Salehm113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
